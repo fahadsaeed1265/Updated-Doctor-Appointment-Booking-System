@@ -1,0 +1,1020 @@
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\appsettings.Development.json
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\appsettings.json
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.staticwebassets.runtime.json
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.staticwebassets.endpoints.json
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.exe
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.deps.json
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.runtimeconfig.json
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.pdb
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Azure.Core.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Azure.Identity.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Humanizer.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.ClientModel.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.CodeDom.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Memory.Data.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.csproj.AssemblyReference.cache
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.AssemblyInfoInputs.cache
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.AssemblyInfo.cs
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.csproj.CoreCompileInputs.cache
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.RazorAssemblyInfo.cache
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.RazorAssemblyInfo.cs
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\scopedcss\bundle\DoctorAppBackend.styles.css
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\scopedcss\projectbundle\DoctorAppBackend.bundle.scp.css
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\2guifw66im-b9sayid5wm.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\2bljg2xcl0-61n19gt1b8.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\myiihivq6h-xtxxf3hu2r.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\5t8qjc3z06-bqjiyaj88i.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\83vzeo4xla-c2jlpeoesf.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\gkorq0sb6l-erw9l3u2r3.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\jfq61q7o6z-aexeepp0ev.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\j3g90uebsh-d7shbmvgxk.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\85b4m75bmq-ausgxo2sd3.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\vbwtadl19d-k8d9w2qqmf.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\hagn56qpip-cosvhxvwiu.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\zbi2a9yuk6-ub07r2b239.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\hlo0fi6bqz-fvhpjtyr6v.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\akymm7qw38-b7pk76d08c.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\0zi9knuajp-fsbi9cje9m.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\t7xt3wt1kw-rzd6atqjts.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\04mrn9y01z-ee0r1s7dh0.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\qgnlg3jght-dxx9fxp4il.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\8i4km0h99v-jd9uben2k1.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\9fla609tt8-khv3u5hwcm.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\c69tkd46ho-r4e9w2rdcm.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\0rxzdz8u5l-lcd1t2u6c8.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\ve4ji9vcel-c2oey78nd0.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\e1n25dkmd9-tdbxkamptv.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\vnuy49sqv7-j5mq2jizvt.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\kl2z3v16wh-06098lyss8.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\5hchmzuqm8-nvvlpmu67g.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\5np4udezp5-s35ty4nyc5.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\y4445ojzia-pj5nd1wqec.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\fn0rb9w1la-46ein0sx1k.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\vawvyjcfkf-v0zj4ognzu.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\prw0jepmnd-37tfw0ft22.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\eh2tkxyq1m-hrwsygsryq.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\dlpu8hu7pa-pk9g2wxc8p.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\aezd6zrvdi-ft3s53vfgj.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\xtf45fwbvp-6cfz1n2cew.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\qmrm2aaxje-6pdc2jztkx.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\4vgd75dunm-493y06b0oq.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\z9i1q6mfed-iovd86k7lj.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\nkonsxq5fz-vr1egmr9el.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\nq9aj287ia-kbrnm935zg.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\vxd0v463wy-jj8uyg4cgr.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\jfslbl4mhp-y7v9cxd14o.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\m2hj71fg7b-notf2xhcfb.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\jerjih9i6o-h1s4sie4z3.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\jbbqhst131-63fj8s7r0e.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\n7fhw1cxzu-0j3bgjxly4.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\ypwvfb0mw9-47otxtyo56.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\799rhpb6ji-4v8eqarkd7.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\oquud424gs-356vix0kms.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\my7tkmcgnj-83jwlth58m.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\vqe5r5u7mr-mrlpezrjn3.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\f0rmhcvra9-lzl9nlhx6b.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\rske80fd9c-ag7o75518u.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\iitx9fxad4-x0q3zqp4vz.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\rpecy8oyfg-0i3buxo5is.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\wqgohoxpdo-o1o13a6vjx.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\4o6oe78tza-ttgo8qnofa.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\n058fsr9vc-2z0ns9nrw6.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\uc2an8nmwq-muycvpuwrr.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\qc57fttyak-87fc7y1x7t.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\v9a0r0eifl-mlv21k5csn.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\9i4wqf5820-qc168dk6yx.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\3zvf8g6pau-qc168dk6yx.gz
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\staticwebassets.build.json
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\staticwebassets.development.json
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAp.D6A2A2E3.Up2Date
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\refint\DoctorAppBackend.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.pdb
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.genruntimeconfig.cache
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\ref\DoctorAppBackend.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Build.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.Common.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\FAHAD\programming\.NET PROJECT\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\appsettings.Development.json
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\appsettings.json
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.staticwebassets.runtime.json
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.staticwebassets.endpoints.json
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.exe
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.deps.json
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.runtimeconfig.json
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.pdb
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Azure.Core.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Azure.Identity.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Humanizer.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Build.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.Common.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.ClientModel.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.CodeDom.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Memory.Data.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Text.Json.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.csproj.AssemblyReference.cache
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.AssemblyInfoInputs.cache
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.AssemblyInfo.cs
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.csproj.CoreCompileInputs.cache
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.RazorAssemblyInfo.cache
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.RazorAssemblyInfo.cs
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\scopedcss\bundle\DoctorAppBackend.styles.css
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\scopedcss\projectbundle\DoctorAppBackend.bundle.scp.css
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\2guifw66im-b9sayid5wm.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\2bljg2xcl0-61n19gt1b8.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\myiihivq6h-xtxxf3hu2r.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\5t8qjc3z06-bqjiyaj88i.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\83vzeo4xla-c2jlpeoesf.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\gkorq0sb6l-erw9l3u2r3.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\jfq61q7o6z-aexeepp0ev.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\j3g90uebsh-d7shbmvgxk.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\85b4m75bmq-ausgxo2sd3.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\vbwtadl19d-k8d9w2qqmf.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\hagn56qpip-cosvhxvwiu.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\zbi2a9yuk6-ub07r2b239.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\hlo0fi6bqz-fvhpjtyr6v.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\akymm7qw38-b7pk76d08c.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\0zi9knuajp-fsbi9cje9m.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\t7xt3wt1kw-rzd6atqjts.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\04mrn9y01z-ee0r1s7dh0.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\qgnlg3jght-dxx9fxp4il.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\8i4km0h99v-jd9uben2k1.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\9fla609tt8-khv3u5hwcm.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\c69tkd46ho-r4e9w2rdcm.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\0rxzdz8u5l-lcd1t2u6c8.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\ve4ji9vcel-c2oey78nd0.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\e1n25dkmd9-tdbxkamptv.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\vnuy49sqv7-j5mq2jizvt.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\kl2z3v16wh-06098lyss8.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\5hchmzuqm8-nvvlpmu67g.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\5np4udezp5-s35ty4nyc5.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\y4445ojzia-pj5nd1wqec.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\fn0rb9w1la-46ein0sx1k.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\vawvyjcfkf-v0zj4ognzu.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\prw0jepmnd-37tfw0ft22.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\eh2tkxyq1m-hrwsygsryq.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\dlpu8hu7pa-pk9g2wxc8p.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\aezd6zrvdi-ft3s53vfgj.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\xtf45fwbvp-6cfz1n2cew.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\qmrm2aaxje-6pdc2jztkx.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\4vgd75dunm-493y06b0oq.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\z9i1q6mfed-iovd86k7lj.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\nkonsxq5fz-vr1egmr9el.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\nq9aj287ia-kbrnm935zg.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\vxd0v463wy-jj8uyg4cgr.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\jfslbl4mhp-y7v9cxd14o.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\m2hj71fg7b-notf2xhcfb.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\jerjih9i6o-h1s4sie4z3.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\jbbqhst131-63fj8s7r0e.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\n7fhw1cxzu-0j3bgjxly4.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\ypwvfb0mw9-47otxtyo56.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\799rhpb6ji-4v8eqarkd7.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\oquud424gs-356vix0kms.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\my7tkmcgnj-83jwlth58m.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\vqe5r5u7mr-mrlpezrjn3.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\f0rmhcvra9-lzl9nlhx6b.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\rske80fd9c-ag7o75518u.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\iitx9fxad4-x0q3zqp4vz.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\rpecy8oyfg-0i3buxo5is.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\wqgohoxpdo-o1o13a6vjx.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\4o6oe78tza-ttgo8qnofa.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\n058fsr9vc-2z0ns9nrw6.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\uc2an8nmwq-muycvpuwrr.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\qc57fttyak-87fc7y1x7t.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\v9a0r0eifl-mlv21k5csn.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\9i4wqf5820-qc168dk6yx.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\3zvf8g6pau-qc168dk6yx.gz
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\staticwebassets.build.json
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\staticwebassets.development.json
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\staticwebassets\msbuild.DoctorAppBackend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\staticwebassets\msbuild.DoctorAppBackend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\staticwebassets\msbuild.build.DoctorAppBackend.props
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DoctorAppBackend.props
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DoctorAppBackend.props
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\staticwebassets.pack.json
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAp.D6A2A2E3.Up2Date
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\refint\DoctorAppBackend.dll
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.pdb
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.genruntimeconfig.cache
+D:\BS IT\Final Year Project\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\ref\DoctorAppBackend.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\appsettings.Development.json
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\appsettings.json
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.staticwebassets.runtime.json
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.staticwebassets.endpoints.json
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.exe
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.deps.json
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.runtimeconfig.json
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\DoctorAppBackend.pdb
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Azure.Core.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Azure.Identity.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Humanizer.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Build.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.Common.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.ClientModel.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.CodeDom.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Memory.Data.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.csproj.AssemblyReference.cache
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.AssemblyInfoInputs.cache
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.AssemblyInfo.cs
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.csproj.CoreCompileInputs.cache
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.RazorAssemblyInfo.cache
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.RazorAssemblyInfo.cs
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\scopedcss\bundle\DoctorAppBackend.styles.css
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\scopedcss\projectbundle\DoctorAppBackend.bundle.scp.css
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\4bqub1b72g-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\3r2tai46ab-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\lvmekinq8c-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\248ys0qil3-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\qmu0fcmkcd-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\utih7yb1l1-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\v7zanioemr-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\kmnxeue20f-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\xh5ppufqdc-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\izv6csefej-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\t38o5gne9r-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\x0wh9c0k9k-{0}-ub07r2b239-ub07r2b239.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\g42g0myni8-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\2lbfocdbpe-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\0ot5qyfdzl-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\9jh7prl087-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\m5u21rnact-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\1p7em2fg5i-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\ziact4w3fi-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\rwxisfjpye-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\bwlm3pzj7z-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\vza6q5ykaf-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\lbietl4bkk-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\ve2qzzl22t-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\wua5hma7iw-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\3wsrc6fimg-{0}-06098lyss8-06098lyss8.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\pjog3q3yg9-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\koockfoi55-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\gxf7n6lmd6-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\s0qbftrpa0-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\1vonziw6i7-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\iglqdmge8d-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\fs624ekwpe-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\t9espcpdq6-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\ca53e7nm57-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\dc110wbwk7-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\wadk47rl2c-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\b9iw3d3mhb-{0}-493y06b0oq-493y06b0oq.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\6cs862bs37-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\bulzkr0dj6-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\1lo01uo7ts-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\2vu9kiak7s-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\2d12b0f0vq-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\hungbvm94i-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\aaa5emszdx-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\qab0yw1kbf-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\t3kkufprd6-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\7rkiwqn2eb-{0}-47otxtyo56-47otxtyo56.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\yqmdta0q7t-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\54on6o34qf-{0}-356vix0kms-356vix0kms.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\cb38uv6wal-{0}-83jwlth58m-83jwlth58m.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\tjgmnkvz6c-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\4i8hbshyax-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\djcj7wriww-{0}-ag7o75518u-ag7o75518u.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\3mc6khg63k-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\zynfgo7flp-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\tftagh6mvj-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\53hn0mc7z5-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\gynbg03cil-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\zdlmkgks6l-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\2b7o31u3mn-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\jd26ko9omy-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\7sbw4v4v5n-{0}-ipb54b0tkx-ipb54b0tkx.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\compressed\2v7at9wcnz-{0}-ipb54b0tkx-ipb54b0tkx.gz
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\staticwebassets.build.json
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\staticwebassets.development.json
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\swae.build.ex.cache
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAp.D6A2A2E3.Up2Date
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\refint\DoctorAppBackend.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.pdb
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\DoctorAppBackend.genruntimeconfig.cache
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\obj\Debug\net9.0\ref\DoctorAppBackend.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\BCrypt.Net-Next.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\MailKit.dll
+D:\BS IT\programming\FYP\Full stack\DoctorAppBackend\DoctorAppBackend\bin\Debug\net9.0\MimeKit.dll
